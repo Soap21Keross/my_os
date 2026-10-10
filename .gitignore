@@ -1,0 +1,27 @@
+﻿# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Виртуальные окружения
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Database & Logs
+*.sqlite
+*.sqlite3
+**/db/*.sqlite
+logs/*.log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
